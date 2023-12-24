@@ -1,0 +1,58 @@
+import 'package:flutter/material.dart';
+
+class DBkeys{
+  static String userName = "user_name";
+  static String userBio = "user_bio";
+  static String userGender = "user_gender";
+  static String userPhoto = "profile_photo";
+  static String userGroups = "groups";
+  static String userMuteGroup = "mute_groups";
+  static String userDataSet = "userDataSet";
+  static String groupName = "group_name";
+  static String groupAdminName = "group_admin_name";
+  static String senderUid = "sender_uid";
+  static String groupId = "group_id";
+  static String groupDescription = "group_description";
+  static String groupMembers = "group_members";
+  static String groupInvites = "group_invites";
+  static String groupStatusInvites = "group_invite_status";
+  static String groupIcon = "group_imageUrl";
+  static String groupLastMessage = "group_last_message";
+  static String groupLastMessageTime = "group_lastMessageTime";
+  static String groupLink = "group_link";
+  static String createdAt = "created_at";
+  static String token = "token";
+  static String isRegisterMethod = "isRegisterMethod";
+
+  static String groupAdmin = "group_admin";
+  static String groupType = "group_type";
+  static String groupAgeRatingType = "group_age_rating";
+  static String messageType = "message_type";
+  static String messageTypeIsReply = "messageTypeIsReply";
+  static String messageParent = "messageParent";
+  static String messageSenderImageUrl = "message_senderImageUrl";
+  static String messageSender = "message_sender";
+  static String messageSenderName = "message_sender_name";
+  static String messageTime = "message_time";
+  static String message = "message";
+  static String messageSeenList = "message_seen_list";
+  static String docId = "doc_id";
+  static String videoThumbnail = "videoThumbnail";
+  static String showMessageEmoji = "show_message_emoji";
+  static String likeList = "like_list";
+  static String heartList = "heart_list";
+  static String wowList = "wow_list";
+  static String careList = "care_list";
+  static String angryList = "angry_list";
+  static String laughList = "laugh_list";
+  static String messageStatus = "message_status";
+  static String fileMessage = "file_message";
+  static String dateTime = "dateTime";
+  // static String dataTime = "message_time";
+  static String isLastMessage = "group_last_message";
+  static String isLastSeenMessage = "group_last_message_seen";
+  static String isLastMessageTime = "group_lastMessageTime";
+  static String isGroupNotification = "group_notification";
+  static String updatedAt = "updated_at";
+  static String deletedAt = "deleted_at";
+}

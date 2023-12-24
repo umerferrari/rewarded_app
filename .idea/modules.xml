@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/start_and_earn.iml" filepath="$PROJECT_DIR$/start_and_earn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/start_and_earn_android.iml" filepath="$PROJECT_DIR$/android/start_and_earn_android.iml" />
+    </modules>
+  </component>
+</project>

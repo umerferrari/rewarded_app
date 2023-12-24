@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "250324293583",
+    "project_id": "startearn-a4f89",
+    "storage_bucket": "startearn-a4f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250324293583:android:becdc746be0328c34e64ba",
+        "android_client_info": {
+          "package_name": "com.securedoor.startandearn.start_and_earn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250324293583-ot42heotp8lqp12248296bumq37fk2fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.securedoor.startandearn.start_and_earn",
+            "certificate_hash": "7141b507bfb11e604b6ef55bb2bc9d0b5d0a2a6e"
+          }
+        },
+        {
+          "client_id": "250324293583-r6rogmut3frrk90mg4l10n8m7em2t7fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBNB6juMOw-E3Vng0iOndQSaXth1pSdVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250324293583-r6rogmut3frrk90mg4l10n8m7em2t7fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
